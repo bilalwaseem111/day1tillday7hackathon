@@ -1,0 +1,39 @@
+{
+  "name": "ui-ux-hackathon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sanity/client": "^6.27.2",
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.71.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "next": "14.2.16",
+    "next-sanity": "^9.8.42",
+    "react": "^18",
+    "react-dom": "^19",
+    "sanity": "^3.71.2",
+    "styled-components": "^6.1.14",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "description": "I have completed the hackathon within 24 hours. There were 5 pages including the home page and all pages are responsive. In home page, when you click on view all/view all products you will be redirected to categories page. Inside cateogories page first 8 products are visible and the remaining 4 products are only visible when you click on the button of show more. In home page, the Nissan Gt car which is the second product where when you click on  rent now button you will be redirected to payment page and on scroll last you will see another rent now butoon to which when you click on it you will be rediected to admin page. In categories, page on the nissan car product, when you click on it you will be redirected to product details page. So thats the whole website for better understanding here is the linked in post: \"https://www.linkedin.com/posts/jamila-yaqoob-dhedhi_giaic-genai-governorsindhit-activity-7271496590459092992-afF2?utm_source=share&utm_medium=member_desktop\"",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+Day 2 
+of our 7-day hackathon is officially in the books, and I’m thrilled to share the exciting progress I’ve made today! 🚀 Our efforts were focused on laying the technical foundation for our e-commerce marketplace, and we’re turning our ideas into real, actionable steps. Here’s what we’ve accomplished so far:
+
+🔹Today, we dove deep into defining the key technical aspects of our project—frontend, backend, and API integrations. Everything is now aligned with our business goals, and we’ve got a clear roadmap ahead.
+
+🔹 Sanity CMS Integration Underway
+We designed custom schemas to manage products, orders, and customer data. This integration is going to be a game-changer, streamlining operations and making everything more efficient.
+
+🔹 API Workflow Mapped Out
+We carefully planned out the essential API endpoints for product retrieval, order placement, and shipment tracking. This is a crucial step to ensure our users get the smooth, seamless experience they deserve.
+
+💪 With a solid base now in place, we’re excited to see how the marketplace continues to evolve over the next few days. The potential is huge, and we’re just getting started! 🚀
+
+🔖 Big Thanks
+Shoutout to Governor Sindh Initiative for GenAI, Web3, and Metaverse for creating this incredible platform and giving us the opportunity to push our boundaries and turn this vision into reality.
